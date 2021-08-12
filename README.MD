@@ -2,7 +2,7 @@
  A word game where the goal is simply to find the missing word or words by guessing letters. If you guess the wrong letter you loose a life and the hangman begins to appear, piece by piece.
 
 ## SCREENSHOTS:
-![hangman-game](https://imgur.com/CSvhJCS)
+![hangman-game](https://imgur.com/7SR20z7)
 
 
 ## TECHNOLOGIES USED: 
