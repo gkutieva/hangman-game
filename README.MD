@@ -11,7 +11,7 @@
 3. CSS
 
 # GETTING STARTED:  
-[Click here to browse the app]()
+[Click here to browse the app](https://gkutieva.github.io/hangman-game/)
 
 ### NEXT STEPS: 
 * Improving on the CSS 
